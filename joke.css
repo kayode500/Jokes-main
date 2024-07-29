@@ -1,0 +1,42 @@
+body{
+    background-color: darkgray;
+}
+
+
+#main{
+    background-color: burlywood;
+    height: 500px;
+    text-align: center;
+    margin: auto;
+    padding-top: 10px;
+    margin-top: 40px;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    color: #134d2d;
+    font: bold;
+}
+button{
+    margin-top: 150px;
+    height: 60px;
+    width: 120px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+p{
+    color: #134d2d;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+
+    
+}
+#jokes{
+    text-align: center;
+   
+
+
+}
